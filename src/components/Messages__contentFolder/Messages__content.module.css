@@ -1,0 +1,28 @@
+.Messages__content{
+    grid-area: Main__content;
+    background: #11101d;
+    display: grid;
+        grid-template-columns: 2fr 10fr;
+    
+}
+
+h1 {
+    color:aliceblue;
+}
+
+.dialog {
+    color: beige;
+    padding: 10px;
+}
+
+.active {
+    color: rgb(122, 191, 194);
+    margin-left: 5px;
+    font-style: italics;
+}
+
+
+.UserMessage {
+    color: white;
+    padding: 10px;    
+}

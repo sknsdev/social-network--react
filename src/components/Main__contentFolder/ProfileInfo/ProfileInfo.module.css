@@ -1,0 +1,20 @@
+.Main__content{
+    grid-area: Main__content;
+    background: #11101d;
+}
+
+h3 {
+    color:aliceblue;
+}
+
+p {
+    color:bisque;
+}
+
+img{
+    max-width: 400px;
+}
+
+button {
+    color: white;
+}

@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  background: #11101d;
+}
+
+.app-wrapper {
+  margin: 0 auto;
+  display: grid;
+  
+  grid-template-areas:
+    "Header Header"
+    "Navbar Main__content";
+  grid-template-columns: 2fr 10fr;
+  grid-template-rows: 60px 1fr;
+  max-width: 1200px;
+}

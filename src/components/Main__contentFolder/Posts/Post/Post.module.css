@@ -1,0 +1,8 @@
+.Main__content{
+    grid-area: Main__content;
+    background: #11101d;
+}
+
+img{
+    max-width: 400px;
+}
